@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anjith Prakash</h1>
-<h3 align="center">Artifical Intelligence Pre-Final Year Student at Amrita Vishwa Vidyapeetham</h3>
+<h3 align="center">Artifical Intelligence Final Year Student at Amrita Vishwa Vidyapeetham</h3>
 
 <p align="center">
   <a href= "https://github.com/Anuttan/">
