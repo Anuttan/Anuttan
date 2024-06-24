@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anjith Prakash</h1>
-<h3 align="center">Artifical Intelligence Graudate Student at Northeastern University</h3>
+<h3 align="center">AI Research Assistant @ MGH - Harvard | AI Graduate Student @ Northeastern University | AI ML Engineer | Computer Vision</h3>
 
 <p align="center">
   <a href= "https://github.com/Anuttan/">
